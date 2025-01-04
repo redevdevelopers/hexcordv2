@@ -1,6 +1,4 @@
-# FullStack Discord Clone: Next.js 13, React, Socket.io, Prisma, Tailwind, MySQL & TypeScript.
-
-Credits: [Antonio Erdeljac](https://github.com/AntonioErdeljac)
+# HexCord v2 Full Stack
 
 Features:
 
@@ -31,7 +29,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/nayak-nirmalya/discord-clone.git
+not released
 ```
 
 ### Install packages
